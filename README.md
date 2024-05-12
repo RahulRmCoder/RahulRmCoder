@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Rajasekharan Menon</h1>
 <h3 align="center">A passionate frontend developer and Data Scientist from India</h3>
 
-  <img src="https://github.com/RahulRmCoder/RahulRmCoder/assets/115494133/e3b4292e-209e-4ff0-8249-01e53ccdd88d" width=600px height=500px align=right>
+  <img src="https://github.com/RahulRmCoder/RahulRmCoder/assets/115494133/e3b4292e-209e-4ff0-8249-01e53ccdd88d" width=600px height=600px align=right>
 
 
 
@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrmcoder&show_icons=true&locale=en&layout=compact" alt="rahulrmcoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulrmcoder&show_icons=true&locale=en" alt="rahulrmcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrmcoder&" alt="rahulrmcoder" /></p>
