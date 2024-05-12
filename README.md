@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Rajasekharan Menon</h1>
 <h3 align="center">A passionate frontend developer and Data Scientist from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulrmcoder" alt="rahulrmcoder" /></a> </p>
+
 
 - 📫 How to reach me **rahulrajasekharanmenon64325@gmail.com**
 
