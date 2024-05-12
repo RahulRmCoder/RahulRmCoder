@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Rajasekharan Menon</h1>
 <h3 align="center">A passionate frontend developer and Data Scientist from India</h3>
 <center>
-  <img src="https://github.com/RahulRmCoder/RahulRmCoder/assets/115494133/e3b4292e-209e-4ff0-8249-01e53ccdd88d" width=800px height=800px>
+  <img src="https://github.com/RahulRmCoder/RahulRmCoder/assets/115494133/e3b4292e-209e-4ff0-8249-01e53ccdd88d" width=500px height=500px>
 </center>
 
 
