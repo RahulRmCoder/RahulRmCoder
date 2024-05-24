@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rahulrajasekharanmenon64325@gmail.com**
 
-- ⚡**You know what! I can code all day ( codding :) )**
+- ⚡**You know what! I can do this all day ( coding :) )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
